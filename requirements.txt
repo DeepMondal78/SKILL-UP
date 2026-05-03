@@ -1,0 +1,15 @@
+asyncio>=3.4.3,<5.0
+toml
+loguru
+pydantic==2.12.5
+tenacity
+rich
+psutil
+python-dotenv
+PyYAML
+networkx
+httpx
+requests
+litellm==1.76.1
+mcp
+schedule
